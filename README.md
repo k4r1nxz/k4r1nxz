@@ -1,32 +1,41 @@
-<h1 align="center">Hi 👋, I'm k4r1nxz </h1>
+<h1 align="center">Hi 👋, I'm k4r1nxz</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=600&color=58A6FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Backend+Heavy+System+Builder;PHP+Rust+Go+TypeScript;Build+Real+Things"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2400&pause=600&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;React+%2B+TypeScript;Backend+Heavy+System+Builder;PHP+Rust+Go"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=k4r1nxz&style=plastic&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=k4r1nxz&style=plastic&color=blueviolet"/>
 </p>
-
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🧠 Languages
+### 🌐 Frontend (Modern)
 <p>
-  <img src="https://skillicons.dev/icons?i=php,rust,go,ts,js&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark" />
 </p>
 
-### 🌐 Frontend
+### 🧠 Backend / Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=php,rust,go&theme=dark" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite,mongodb&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=sqlite,mongodb&theme=dark" />
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Focus & Strengths
+
+<p>
+  <img src="https://img.shields.io/badge/React%20%2B%20TypeScript-SPA%20%26%20Interactive%20UI-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Backend--Heavy-System%20Oriented-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-Scalable-1f6feb?style=for-the-badge"/>
 </p>
 
 ---
@@ -40,16 +49,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=k4r1nxz&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k4r1nxz&theme=github_dark&utcOffset=7"/>
-</p>
-
----
-
-## 🚀 Focus
-
-<p>
-  <img src="https://img.shields.io/badge/Backend-Heavy-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System--Oriented-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scalable--Design-1f6feb?style=for-the-badge"/>
 </p>
 
 ---
