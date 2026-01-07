@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2400&pause=600&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;React+%2B+TypeScript;Backend+Heavy+System+Builder;PHP+Rust+Go"/>
 </p>
-
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=k4r1nxz&style=plastic&color=blueviolet"/>
 </p>
